@@ -11,21 +11,21 @@
 
         <div class="sender-info">
           <div>
-            <label for="name" class="label">Ton pseudo</label>
+            <label for="name" class="label">Ton pseudo :</label>
             <input type="text" name="name" />
           </div>
           <div>
-            <label for="email" class="label">Ton email</label>
+            <label for="email" class="label">Ton email :</label>
             <input type="email" name="email" />
           </div>
         </div>
 
         <div class="message">
-          <label for="message" class="label">Ta lettre d'amour aux Tyras</label>
+          <label for="message" class="label">Ta lettre d'amour aux Tyras :</label>
           <textarea name="message"></textarea>
         </div>
 
-        <button class="button">Submit form</button>
+        <button class="button">Vas-y Francky !</button>
 
       </form>
 
