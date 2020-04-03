@@ -7,27 +7,10 @@
         <p>Laisse un message textuel sur le e-répondeur des Tyras.</p>
       </div>
 
-      <form class="contact-form" name="contact">
-
-        <div class="sender-info">
-          <div>
-            <label for="name" class="label">Ton pseudo :</label>
-            <input type="text" name="name" />
-          </div>
-          <div>
-            <label for="email" class="label">Ton email :</label>
-            <input type="email" name="email" />
-          </div>
-        </div>
-
-        <div class="message">
-          <label for="message" class="label">Ta lettre d'amour aux Tyras :</label>
-          <textarea name="message"></textarea>
-        </div>
-
-        <button class="button">Vas-y Francky !</button>
-
-      </form>
+      <div>
+        <h2>Via Messenger</h1>
+        <p>m.me/Tyrassonores</p>
+      </div>
 
     </div>
   </Layout>
