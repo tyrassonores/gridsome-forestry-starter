@@ -3,11 +3,7 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Envoie-nous un fax !</h1>
-        <p>Laisse un message textuel sur le e-répondeur des Tyras.</p>
-      </div>
-
-      <div>
+        <h1 class="contact-title">Laisse-nous un message textuel !</h1>
         <h2>Via Messenger</h1>
         <p>m.me/Tyrassonores</p>
       </div>
