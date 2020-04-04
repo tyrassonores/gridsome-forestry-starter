@@ -3,9 +3,9 @@
         <div class="container">
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
-                    <img 
+                    <img
                         src="../../static/logo_tyras.jpg"
-                        :alt="settings.site_name" 
+                        :alt="settings.site_name"
                         class="logo"
                     />
                 </g-link>
@@ -20,9 +20,9 @@
 
 <script>
 export default {
-  data() {
+  data() {  
     return {
-        logo: require("../../static/logo.svg"),
+        logo: require("../../static/logo_tyras.png"),
         settings: require("../../data/theme.json")
     }
   }
@@ -58,7 +58,7 @@ export default {
     font-weight: 700;
     letter-spacing: 0.05em;
     text-decoration: none;
-    text-transform: uppercase;   
+    text-transform: uppercase;
 }
 .nav > * {
     font-size: 0.9rem;
