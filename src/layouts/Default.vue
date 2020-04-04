@@ -36,7 +36,7 @@ body {
   background: var(--color-base);
   color: var(--color-contrast);
   transition: background 0.5s ease;
-  background-image: url(~@/static/background.jpg)
+  background-image: url(~@/static/images/background.jpg)
 }
 
 body.dark {
