@@ -34,7 +34,6 @@ export default {
     position: relative;
     height: 6rem;
     z-index: 10;
-    fontsize: 36;
 }
 .header.sticky {
     position: fixed;
@@ -52,7 +51,7 @@ export default {
     text-decoration: none;
 }
 .logo {
-    height: 1.5rem;
+    height: 4rem;
 }
 .site-name {
     font-size: 0.9rem;
