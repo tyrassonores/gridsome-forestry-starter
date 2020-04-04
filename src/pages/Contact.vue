@@ -3,18 +3,15 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Laisse-nous un message textuel !</h1>
-        <h2>Via Messenger</h2>
-        <p>m.me/Tyrassonores</p>
+        <h1 class="contact-title">Laisse un message sur le répondeur des Tyras !</h1>
       </div>
+      <p>
+      Ceci sera un formulaire de contact
+      </p>
 
     </div>
   </Layout>
 </template>
-
-<script>
-export default {}
-</script>
 
 <style scoped>
 .contact-header {
@@ -75,4 +72,3 @@ textarea {
   border: 1px solid var(--color-base-1);
 }
 </style>
-
