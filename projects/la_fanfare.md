@@ -1,9 +1,8 @@
 ---
-date: 2019-05-16
-year: 2019
+date: 2020-04-04
+year: 2020
 title: La fanfare
-category: Identity, Poire
-thumbnail: "/uploads/la_fanfare.jpg"
+thumbnail: "/uploads/la_fanfare.svg"
 project_bg_color: "#FF82E2"
 project_fg_color: "#B92828"
 

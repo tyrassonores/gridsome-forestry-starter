@@ -1,9 +1,8 @@
 ---
-date: 2019-05-16
-year: 2019
+date: 2020-04-03
+year: 2020
 title: Nos prochaines dates
-category: Identity
-thumbnail: "/uploads/dates.jpg"
+thumbnail: "/uploads/dates.svg"
 project_bg_color: "#FF82E2"
 project_fg_color: "#B92828"
 

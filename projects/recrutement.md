@@ -1,9 +1,8 @@
 ---
-date: 2019-05-16
-year: 2019
+date: 2020-04-02
+year: 2020
 title: Viens jouer avec nous !
-category: Identity
-thumbnail: "/uploads/recrutement.jpg"
+thumbnail: "/uploads/recrutement.svg"
 project_bg_color: "#FF82E2"
 project_fg_color: "#B92828"
 

@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="latest-journals-heading container">
-        <span class="label">Latest and greatest</span>
+        <span class="label">Dernières nouvelles du jurassique :</span>
         </div>
         <div class="latest-journals">
         <div class="container">

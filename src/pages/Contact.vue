@@ -18,9 +18,12 @@
   padding: 2rem 0 4rem 0;
 }
 .contact-title {
-  font-size: 4rem;
+  font-size: 3rem;
   margin: 0 0 4rem 0;
   padding: 0;
+  font-weight: 700;
+  color: var(--color-base-1);
+  text-align: center;
 }
 .sender-info {
   display: flex;

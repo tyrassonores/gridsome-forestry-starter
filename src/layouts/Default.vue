@@ -26,9 +26,9 @@ export default {
 
 body {
   --color-base: rgb(255, 255, 255);
-  --color-base-1: rgb(243, 243, 243);
+  --color-base-1: rgb(255, 255, 255);
   --color-contrast: rgb(0, 0, 0);
-  --color-contrast-1: rgb(43, 43, 43);
+  --color-contrast-1: rgb(0, 0, 0);
   font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
   margin:0;
   padding: 0;
@@ -36,13 +36,14 @@ body {
   background: var(--color-base);
   color: var(--color-contrast);
   transition: background 0.5s ease;
+  background-image: url(~../../static/backgroundT.jpg)
 }
 
 body.dark {
   --color-base: rgb(0, 0, 0);
-  --color-base-1: rgb(43, 43, 43);
+  --color-base-1: rgb(83, 83, 83);
   --color-contrast: rgb(255, 255, 255);
-  --color-contrast-1: rgb(243, 243, 243);
+  --color-contrast-1: rgb(203, 203, 203);
 }
 
 h1 {
