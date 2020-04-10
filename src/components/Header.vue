@@ -4,7 +4,7 @@
             <div class="left">
                 <g-link :to="{ name: 'home' }" class="home-link">
                     <img
-                        src="../../static/logo_tyras.svg"
+                        src="../../static/oeil.gif"
                         :alt="settings.site_name"
                         class="logo"
                     />
@@ -22,7 +22,7 @@
 export default {
   data() {
     return {
-        logo: require("../../static/logo_tyras.png"),
+        logo: require("../../static/oeil.gif"),
         settings: require("../../data/theme.json")
     }
   }

@@ -24,19 +24,31 @@ export default {
   box-sizing: border-box;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+
 body {
   --color-base: rgb(255, 255, 255);
   --color-base-1: rgb(255, 255, 255);
   --color-contrast: rgb(0, 0, 0);
   --color-contrast-1: rgb(0, 0, 0);
-  font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+  font-family: 'VT323', monospace;;
   margin:0;
   padding: 0;
   font-size: 16px;
   background: var(--color-base);
   color: var(--color-contrast);
   transition: background 0.5s ease;
-  background-image: url(~../../static/backgroundT.jpg)
+  background-image: url(~../../static/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  image-rendering: optimizeSpeed;             /* STOP SMOOTHING, GIVE ME SPEED  */
+  image-rendering: -moz-crisp-edges;          /* Firefox                        */
+  image-rendering: -o-crisp-edges;            /* Opera                          */
+  image-rendering: -webkit-optimize-contrast; /* Chrome (and eventually Safari) */
+  image-rendering: pixelated; /* Chrome */
+  image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
+  -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
+  font-weight:normal;
 }
 
 body.dark {
@@ -47,7 +59,7 @@ body.dark {
 }
 
 h1 {
-  letter-spacing: -0.01em;
+  font-weight:normal;
 }
 
 .layout {
@@ -83,4 +95,5 @@ img {
   font-weight: 700;
   margin-bottom: 0.5rem;
 }
+
 </style>
