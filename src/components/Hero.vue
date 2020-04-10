@@ -1,7 +1,12 @@
 <template>
     <div class="hero">
-        <h1 class="hero-title" v-html="settings.hero_title" />
-        <h2 class="hero-subtitle" v-html="settings.hero_subtitle" />
+      /*  <h1 class="hero-title" v-html="settings.hero_title" />*/
+        <img
+            src="../../static/LES-TYRASSONORES.gif"
+            :alt="settings.site_name"
+            class="logo"
+        />
+        /*<h2 class="hero-subtitle" v-html="settings.hero_subtitle" />*/
     </div>
 </template>
 
