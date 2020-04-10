@@ -25,13 +25,15 @@ export default {
 }
 
 @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
 
 body {
   --color-base: rgb(255, 255, 255);
   --color-base-1: rgb(255, 255, 255);
   --color-contrast: rgb(0, 0, 0);
   --color-contrast-1: rgb(0, 0, 0);
-  font-family: 'VT323', monospace;;
+  /*font-family: 'VT323', monospace;*/
+  font-family: 'Cabin', sans-serif;
   margin:0;
   padding: 0;
   font-size: 16px;
@@ -48,7 +50,7 @@ body {
   image-rendering: pixelated; /* Chrome */
   image-rendering: optimize-contrast;         /* CSS3 Proposed                  */
   -ms-interpolation-mode: nearest-neighbor;   /* IE8+                           */
-  font-weight:normal;
+
 }
 
 body.dark {
@@ -59,7 +61,9 @@ body.dark {
 }
 
 h1 {
-  font-weight:normal;
+font-family: 'VT323', monospace;
+font-weight:normal;
+
 }
 
 .layout {

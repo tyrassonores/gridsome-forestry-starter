@@ -20,5 +20,7 @@ export default {
 .footer {
     font-size: 0.8rem;
     padding: 6rem 0;
+    font-family: 'VT323', monospace;
+    font-weight:normal;
 }
 </style>

@@ -34,6 +34,8 @@ export default {
     position: relative;
     height: 6rem;
     z-index: 10;
+    font-family: 'VT323', monospace;
+    font-weight:normal;
 }
 .header.sticky {
     position: fixed;
@@ -56,12 +58,11 @@ export default {
 .site-name {
     font-size: 0.9rem;
     font-weight: 700;
-    letter-spacing: 0.05em;
     text-decoration: none;
     text-transform: uppercase;
 }
 .nav > * {
-    font-size: 0.9rem;
+    font-size: 1rem;
     font-weight: 600;
     text-decoration: none;
     margin-top: 4px;
