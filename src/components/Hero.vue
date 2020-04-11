@@ -1,12 +1,10 @@
 <template>
     <div class="hero">
-      /*  <h1 class="hero-title" v-html="settings.hero_title" />*/
         <img
-            src="../../static/LES-TYRASSONORES.gif"
+            src="../../static/logo_néon.png"
             :alt="settings.site_name"
-            class="logo"
+            width=100%
         />
-        /*<h2 class="hero-subtitle" v-html="settings.hero_subtitle" />*/
     </div>
 </template>
 
@@ -23,7 +21,7 @@ export default {
 <style>
 .hero {
     text-align: center;
-    width: 480px;
+    width: 1024px;
     max-width: 100%;
     margin: 0 auto;
     padding: 4rem 0 8rem 0;
