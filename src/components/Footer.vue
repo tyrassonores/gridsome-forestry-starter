@@ -18,7 +18,7 @@ export default {
 
 <style scoped>
 .footer {
-    font-size: 1.5rem;
+    font-size: 0.8rem;
     padding: 6rem 0;
     font-family: 'VT323', monospace;
     font-weight:normal;
