@@ -2,7 +2,7 @@
 date: 2020-04-04
 year: 2020
 title: La fanfare
-thumbnail: "/uploads/la_fanfare.svg"
+thumbnail: "/uploads/la_fanfare.png"
 project_bg_color: "#FF82E2"
 project_fg_color: "#B92828"
 

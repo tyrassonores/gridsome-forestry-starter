@@ -2,7 +2,7 @@
 date: 2020-04-02
 year: 2020
 title: Viens jouer avec nous !
-thumbnail: "/uploads/recrutement.svg"
+thumbnail: "/uploads/recrutement.png"
 project_bg_color: "#FF82E2"
 project_fg_color: "#B92828"
 

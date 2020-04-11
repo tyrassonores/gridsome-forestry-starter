@@ -2,7 +2,7 @@
 date: 2020-04-03
 year: 2020
 title: Nos prochaines dates
-thumbnail: "/uploads/dates.svg"
+thumbnail: "/uploads/invitation.png"
 project_bg_color: "#FF82E2"
 project_fg_color: "#B92828"
 
