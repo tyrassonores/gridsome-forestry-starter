@@ -1,13 +1,14 @@
 ---
 date: 2020-04-02
 year: 2020
-title: Viens jouer avec nous !
+title: Rejoins les Tyras !
 thumbnail: "/uploads/recrutement.png"
-project_bg_color: "#FF82E2"
-project_fg_color: "#B92828"
+project_bg_color: "#b2ff80ff"
+project_fg_color: "#b2ff80ff"
 
 ---
 
-![](/uploads/la_fanfare.jpg)
 
-The **banana** fruits grow from a **banana** blossom in hanging clusters, also called a bunch or **banana** stem. The fruits grow in rows called tiers or hands. There can be as many as twenty fruits to a hand, and as many as twenty tiers in a bunch. A bunch usually weighs between 30 and 50 kilograms.
+Tu joues d'un instrument de musique ? Non ? Viens quand même ! POuet pouet pouet.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nAg2SGs7-qo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -62,8 +62,13 @@ body.dark {
 
 h1 {
 font-family: 'VT323', monospace;
+font-size: 20;
 font-weight:normal;
-
+}
+h2 {
+font-family: 'VT323', monospace;
+font-weight:normal;
+font-size:16;
 }
 
 .layout {
